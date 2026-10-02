@@ -1,0 +1,11 @@
+{
+  "name": "jenkins-docker-demo",
+  "version": "1.0.0",
+  "description": "Simple Node.js app used to demonstrate a Jenkins CI/CD pipeline with Docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
